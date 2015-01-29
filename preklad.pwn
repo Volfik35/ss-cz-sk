@@ -91,7 +91,7 @@ hook OnGameModeInit()
 {
 	print("\n[OnGameModeInit] Initialising 'ToolTips'...");
 
-	DefineItemToolTip(item_NULL,			"baf");
+	DefineItemToolTip(item_NULL,			"kolibanamorena");
 	DefineItemToolTip(item_Knuckles,		"This is a blunt melee weapon, useful for knocking players out");
 	DefineItemToolTip(item_GolfClub,		"This is a blunt melee weapon, useful for knocking players out");
 	DefineItemToolTip(item_Baton,			"This is a blunt melee weapon, useful for knocking players out");
